@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "b00glLVEJAq4A8zjdyyra3L6jj6b3QZLi9KGXwAri1X06eYNQVFPdF/znrK9OMjA4uPfSxwTrr2RlmlICHiBqA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ASUS\\Desktop\\Universidad\\Tercer Semestre\\Programacion Orientada a Objetos\\Parcial2-master\\linq.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ASUS\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
